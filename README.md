@@ -4,4 +4,6 @@
 
 ## List of the games:
       1. ApplePicker
-      2. 
+      2. Memory Game
+      3. Rock Paper Scissor
+      4. Space Shooting
