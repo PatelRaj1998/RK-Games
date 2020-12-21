@@ -8,4 +8,5 @@
       3. Rock Paper Scissor
       4. Space Shooting
 
-Sample Image:
+Sample Image:<br/>
+<img width="599" alt="RK_Games" src="https://user-images.githubusercontent.com/36802968/102759282-e5118d00-4341-11eb-8aa3-f0722ddd35bc.png">
